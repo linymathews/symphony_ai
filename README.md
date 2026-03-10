@@ -118,9 +118,9 @@ Explore the source and documentation on [GitHub](https://github.com/cibinmathewj
 
 We'd love to hear about your project. Whether you need the framework, consulting, or a fully managed solution — let's talk.
 
-### [Contact Us](mailto:liny.mathews@gmail.com?subject=Symphony%20AI%20%E2%80%93%20Let%27s%20Talk&body=Hi%20Symphony%20AI%20Team%2C%0A%0AI%27m%20interested%20in%20learning%20more%20about%20your%20AI%20integration%20services.%0A%0ACompany%3A%20%0AUse%20Case%3A%20%0A%0AThanks!)
+### [Contact Us](mailto:info@symphonykernel.org?subject=Symphony%20AI%20%E2%80%93%20Let%27s%20Talk&body=Hi%20Symphony%20AI%20Team%2C%0A%0AI%27m%20interested%20in%20learning%20more%20about%20your%20AI%20integration%20services.%0A%0ACompany%3A%20%0AUse%20Case%3A%20%0A%0AThanks!)
 
-📧 **liny.mathews@gmail.com**
+📧 **info@symphonykernel.org**
 
 ---
 
